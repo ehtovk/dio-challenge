@@ -11,4 +11,4 @@
 
 #### Elas podem ser compiladas ou interpretadas:
 
-- **Compiladas**: É uma linguagem de programação
+- **Compiladas**: É uma linguagem de programação que 
